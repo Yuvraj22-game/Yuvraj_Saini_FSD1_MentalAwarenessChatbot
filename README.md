@@ -12,7 +12,7 @@ GlowMinds is a mental awareness chatbot that offers real-time emotional support 
 
 The chatbot integrates a custom-trained Dialogflow agent to respond meaningfully to user input, offering both general mental health advice and India-specific resources, including hotline numbers.
 
-> 🎥 **Video Explanation:** [https://your-video-link.com](https://your-video-link.com)
+> 🎥 **Video Explanation:** [https://drive.google.com/file/d/1Eaxv76b_vpVcdSGO8Jnuh_lHvJDUHTMz/view?usp=drivesdk]
 
 ---
 
